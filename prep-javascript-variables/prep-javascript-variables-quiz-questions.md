@@ -9,9 +9,9 @@ After completing this exercise, you should be able to discuss or answer the foll
 - What operator will return the data type of a variable value?
   typeof
 - Which keyword is used to declare a variable in JavaScript?
-  let , var
+  let , var, const
 - Which characters is a JavaScript variable allowed to begin with?
-  underscore, dollarsign,
+  underscore, dollarsign,letter
 - What are quotation marks used for in JavaScript?
   they are used to create strings
 - What is the purpose of strings in JavaScript?
